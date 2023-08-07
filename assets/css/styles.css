@@ -1162,6 +1162,10 @@ align-items: center;
     .portfolio__img{
         width: 320px;
     }
+
+    .portfolio__appimg{
+        height: 50%;
+    }
     .portfolio__content{
         align-items: center;
     }
@@ -1249,7 +1253,5 @@ align-items: center;
         width: 100px;
     }
 }
-
-
 
  
